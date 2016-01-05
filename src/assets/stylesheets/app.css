@@ -1,0 +1,10 @@
+body {
+  background-color: #fff;
+  color: #000;
+  font-family: Helvetica, Arial, Tahoma, sans-serif;
+  font-size: 14px;
+}
+
+p {
+  margin: 0 0 1em;
+}
